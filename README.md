@@ -11,8 +11,6 @@
 
 <img src="screenshot.png" width="280"/>
 
-## this is a new chapter wooooo
-
 ## Database Information
 
 log28 uses [realm](https://realm.io) as it's database. There are 3 "tables"
